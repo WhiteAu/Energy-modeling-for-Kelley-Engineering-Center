@@ -23,7 +23,7 @@ DATABASE_PORT = ''             # Set to empty string for default. Not used with 
 SITE_ROOT = ''
 
 # absolute path to the docroot of this site
-DOC_ROOT = '/home/whiteau/Senior_Design/KEC_Energy/'
+DOC_ROOT = '/home/whiteau/Senior_Design/Energy-modeling-for-Kelley-Engineering-Center/'
 
 # Local time zone for this installation. Choices can be found here:
 # http://en.wikipedia.org/wiki/List_of_tz_zones_by_name
